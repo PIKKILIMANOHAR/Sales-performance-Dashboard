@@ -29,7 +29,7 @@ The objective of this project is to analyze sales performance using Power BI. Th
 - Generated business insights to support data-driven decision-making.
 
 ## Dashboard
-<img width="1200" height="675" alt="dashboard_image" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_IMAGE_LINK" />
+<img width="1200" height="675" alt="dashboard_image" src="https://github.com/PIKKILIMANOHAR/Sales-Performance-Dashboard/blob/main/dashboard_image.png" />
 
 ## Project Insights
 - The business generated a total sales value of **366.62K**.
@@ -42,4 +42,4 @@ The objective of this project is to analyze sales performance using Power BI. Th
 - Daily sales analysis showed fluctuations, helping identify peak and low-performing days.
 
 ## Final Conclusion
-The Sales Performance Dashboard provides a comprehensive overview of business performance through interactive visualizations and key performance indicators. The dashboard enables users to monitor sales trends, evaluate product and category performance, analyze payment preferences, and measure profitability. These insights help businesses optimize sales strategies, improve operational efficiency, and make informed decisions for sustainable growth.
+The Sales Performance Dashboard provides a comprehensive overview of business performance through interactive visualizations and key performance indicators. The dashboard enables users to monitor sales trends, evaluate product and category performance, analyze payment preferences, and measure profitability. These insights help businesses optimize sales strategies, improve operational efficiency, and make informed decisions for sustainable growth.">Dataset</a>
