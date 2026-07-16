@@ -18,7 +18,7 @@ The objective of this project is to analyze sales performance using Power BI. Th
 - How do daily sales fluctuate throughout the month?
 - How do direct sales compare with online sales?
 
-- Dashboard Interaction <a href="https://github.com/PIKKILIMANOHAR/Sales-Performance-Dashboard/blob/main/dashboard_image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/PIKKILIMANOHAR/Sales-performance-Dashboard/blob/main/sales_dashboard.png">View Dashboard</a>
 
 ## Process
 - Collected and imported the sales dataset into Power BI.
@@ -29,7 +29,7 @@ The objective of this project is to analyze sales performance using Power BI. Th
 - Generated business insights to support data-driven decision-making.
 
 ## Dashboard
-<img width="1200" height="675" alt="dashboard_image" src="https://github.com/PIKKILIMANOHAR/Sales-Performance-Dashboard/blob/main/dashboard_image.png" />
+<img width="1200" height="675" alt="dashboard_image" src="https://github.com/PIKKILIMANOHAR/Sales-performance-Dashboard/blob/main/sales_dashboard.png"/>
 
 ## Project Insights
 - The business generated a total sales value of **366.62K**.
